@@ -30,7 +30,7 @@ The PC does the vision work and talks to the ESP32 over USB serial. No cloud, no
 ## Author
 
 **Soumik Ghosh** — *TechTadka360*  
-- YouTube: [@techtadka360official](https://www.youtube.com/@techtadka360official)  
+- YouTube: [@techtadka360](https://www.youtube.com/@techtadka360official)  
 - Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official)  
 - GitHub: [Mr-soumik](https://github.com/Mr-soumik)
 - Facebook: [@techtadka360](https://www.facebook.com/share/1F3sa9eeeV/)
